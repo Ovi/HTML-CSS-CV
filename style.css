@@ -1,0 +1,140 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+.photo-and-name {
+    /* NO STYLE NEEDED YET */
+}
+
+.photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+.job-title {
+    display: inline-block;
+}
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+#objective {
+    
+}
+
+#objective h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#objective p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#education table tr.school-2 td:first-child {
+    padding-bottom: 25px;
+}
+
+#work h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#work table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#work table tr.work-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#work table tr.work-1 td {
+    padding-bottom: 25px;
+}
+
+#work table tr.work-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#bio-data h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#bio-data table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#bio-data table tr td:first-child {
+    width: 200px;
+}
+
+#bio-data table tr td:nth-child(2) {
+    width: 300px;
+}
