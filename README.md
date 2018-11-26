@@ -3,4 +3,4 @@ CV-Using-HTML-CSS
 
 This is a non-responsive CV, made using HTML and CSS only. (Just a practice)
 
-Demo: https://oyeovi.github.io/HTML-CSS-CV/
+Demo: https://muhammadovi.github.io/HTML-CSS-CV/
